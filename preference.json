@@ -1,0 +1,6 @@
+{
+    "is_keepitshort": true,
+    "max_tokens": 200,
+    "model": "gpt-3.5-turbo",
+    "preset_selected": "HtmlBootstrap"
+}

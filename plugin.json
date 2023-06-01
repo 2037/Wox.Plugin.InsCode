@@ -1,0 +1,12 @@
+{
+  "ID":"00cc2292-2a6f-47df-a5fa-082b6fff0962",   
+  "ActionKeyword":"i",                    
+  "Name":"InsCode",                             
+  "Description":"OpenAI Interface",    
+  "Author":"Jack Wang",                   
+  "Version":"1.0.0",                         
+  "Language":"python",                       
+  "Website":"http://www.jackwang2037.com",         
+  "IcoPath": "Images\\openai.png",              
+  "ExecuteFileName":"main.py"   
+  }
