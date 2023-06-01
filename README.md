@@ -24,7 +24,7 @@ Customize your instructions to GPT in `presets.json`.
 Set your prefered model in `preference.json`. The default model is *gpt-3.5-turbo*. The available models and their variants are [GPT3.5](https://platform.openai.com/docs/models/gpt-3-5), [GPT4](https://platform.openai.com/docs/models/gpt-4). Set your `max_token` to higher if needed (such like components in HTML). [Count Your Token Here](https://platform.openai.com/tokenizer). Set `is_keepitshort` to `false` to include explainations, default as `true` to only keep codes in first code block. 
 
 # Screenshots
-Demostrate a short request for ChatGPT without opening browser. Only `Ctrl+Space`(shortcut for Wox), `i {question}` and `Enter`. 
-![Prompt]("https://raw.github.com/2037/Wox.Plugin.InsCode/blob/master/Screenshots/prompt.png")
+Demostrate a short request for ChatGPT without opening browser. Only `Ctrl+Space` (shortcut for Wox), `i {question}` and `Enter`. 
+![Prompt](/Screenshots/prompt.png)
 Then `Ctrl+V`. There you go! 
-![Result]("https://raw.github.com/2037/Wox.Plugin.InsCode/blob/master/Screenshots/result.png")
+![Result](/Screenshots/result.png)
